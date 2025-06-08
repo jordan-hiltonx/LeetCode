@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstLastPositionSortedArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfThree", "PowerOfThree\PowerOfThree.csproj", "{AE46C8BB-F835-4E73-B126-82BCAC9472BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveStars", "RemoveStars\RemoveStars.csproj", "{E2C1E943-C4BF-47BC-96EE-D24696D77C6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{AE46C8BB-F835-4E73-B126-82BCAC9472BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE46C8BB-F835-4E73-B126-82BCAC9472BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE46C8BB-F835-4E73-B126-82BCAC9472BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C1E943-C4BF-47BC-96EE-D24696D77C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C1E943-C4BF-47BC-96EE-D24696D77C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C1E943-C4BF-47BC-96EE-D24696D77C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C1E943-C4BF-47BC-96EE-D24696D77C6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
